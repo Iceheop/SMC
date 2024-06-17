@@ -58,7 +58,7 @@
                     <h5 class="card-title text-center pb-0 fs-4">Inicia seción con tu cuenta</h5>
                     <p class="text-center small">Inserta su matricula y tu contraseña para iniciar seción.</p>
                   </div>
-<!--  -->
+
                   <form class="row g-3" id="loginform">
 
                     <div class="col-12">
